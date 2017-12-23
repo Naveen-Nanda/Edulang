@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "526718192041",
+    "firebase_url": "https://fir-check-c7925.firebaseio.com",
+    "project_id": "fir-check-c7925",
+    "storage_bucket": "fir-check-c7925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526718192041:android:2e01b1db5986e9f5",
+        "android_client_info": {
+          "package_name": "com.sruthikannan.spl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526718192041-s1hlqmc88r2nvkv7v98ogkehkpi0sf9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MFWjGDGKlCeL_pWuAWjteynz5XfYmPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
